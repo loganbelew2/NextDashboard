@@ -1,3 +1,5 @@
+import LatestInvoices from "@/app/ui/dashboard/latest-invoices";
+
 export default function Invoices() {
-    return <p>invoices page</p>
+    // return <LatestInvoices>
 }
